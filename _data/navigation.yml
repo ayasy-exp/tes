@@ -13,3 +13,21 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: Homepage
+    url: https://ayasy-exp.github.io/tes/
+
+  - title: Customization
+    children:
+      - title: "Error 404"
+        url: /docs/configuration/
+      - title: "blank"
+        url:
+
+  - title: Search Engine
+    children:
+      - title: "Google"
+        url: https://www.google.com/
+      - title: "Bing"
+        url: https://www.bing.com/
