@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "world"
+permalink: /halo/
 ---
 
 # Hello H1
