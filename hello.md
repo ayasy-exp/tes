@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Hello World"
+title: "world"
+permalink: /hello-world/
 ----
 
 #Hello H1
@@ -10,5 +11,5 @@ Hello Worl
 
 this is paragraph. gheiwgaiwgsusfwihswy9swg8ehwfwuwtwfwuwy
 vsissywiegd8ywgw8wtwus7stuwustwhsuregwus
-- [ ] not sellect
-- [X] sellect
+- [ ] not select
+- [X] select
