@@ -2,7 +2,7 @@
 layout: page
 title: "world"
 permalink: /hello-world/
-----
+---
 
 #Hello H1
 ## This is H2
