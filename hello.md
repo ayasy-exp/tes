@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: single
 title: "world"
-permalink: /hello-world/
 ---
 
-#Hello H1
+# Hello H1
 ## This is H2
 
 Hello Worl
