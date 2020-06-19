@@ -1,1 +1,4 @@
-remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes"
