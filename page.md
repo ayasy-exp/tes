@@ -1,3 +1,7 @@
+---
+title: "page test"
+---
+
 An h1 header
 ============
 
