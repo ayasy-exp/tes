@@ -1,5 +1,6 @@
 ---
-title: "page test"
+layout: home
+author_profile: false
 ---
 
 An h1 header
