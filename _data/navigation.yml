@@ -1,0 +1,15 @@
+
+# main links
+main:
+  - title: "Home"
+    url: https://ayasy-exp.github.io/tes/
+  - title: "Readme"
+    url: /readme.md
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
