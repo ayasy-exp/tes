@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "world"
 permalink: /halo/
 ---
@@ -7,7 +7,7 @@ permalink: /halo/
 # Hello H1
 ## This is H2
 
-Hello Worl
+Hello World
 
 this is paragraph. gheiwgaiwgsusfwihswy9swg8ehwfwuwtwfwuwy
 vsissywiegd8ywgw8wtwus7stuwustwhsuregwus
