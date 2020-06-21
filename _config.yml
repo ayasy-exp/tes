@@ -293,12 +293,11 @@ defaults:
       share: true
       comments: true
   - scope:
-      path: ""
-      type: default-tes
+      path: "/_default-tes/"
     values:
       layout: single
       read_time: true
-      author_profile: false
+      author_profile: true
       share: true
       comments: true
         
