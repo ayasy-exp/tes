@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "world"
-permalink: /layout/hello/
+title: "page"
+permalink: /layout/:title/
 ---
 
-# Hello H1
-## This is H2
+# Page
+## sample page with page layout
 
 Hello World
 
