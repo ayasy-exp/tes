@@ -222,6 +222,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-data
   - jekyll-archives
+  - jekyll-paginate-v2
 
 # mimic GitHub Pages with --safe
 whitelist:
