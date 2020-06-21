@@ -3,10 +3,12 @@
 main:
   - title: "Home"
     url: https://ayasy-exp.github.io/tes/
-  - title: "Page"
-    url: /blog
+  - title: Single
+    url: /layout/single
+  - title: Splash
+    url: /layout/splash
   - title: "Test"
-    url: /halo
+    url: /layout/page
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
