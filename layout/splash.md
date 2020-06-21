@@ -1,9 +1,6 @@
 ---
 layout: splash
-permalink: /landing/
-classes:
-  - landing
-  - dark-theme
+permalink: /splash/
 ---
 
 # Landing Tes
