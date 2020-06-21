@@ -1,6 +1,9 @@
 ---
 layout: single
-author_profile: false
+class: wide
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 An h1 header
