@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /theme/single/
+permalink: /layout/single/
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
