@@ -5,6 +5,8 @@ classes: wide
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "fas fa-list-alt"
+sidebar:
+  nav: "docs"
 ---
 
 single-page
@@ -164,5 +166,5 @@ math should get its own line and be put in in double-dollarsigns:
 $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
-title telah ditambah
+which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.\
+title telah ditambah. Sidebar telah ditambah.
