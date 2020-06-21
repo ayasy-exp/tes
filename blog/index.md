@@ -1,6 +1,6 @@
 ---
 layout: single
-class: wide
+classes: wide
 ---
 
 An h1 header
