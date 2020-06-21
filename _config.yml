@@ -283,16 +283,18 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _docs
+  # _layout
   - scope:
       path: ""
-      type: docs
+      type: layout
     values:
-      layout: single
-      read_time: false
+      read_time: true
       author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"
+      share: true
+      comments: true
+        
+collections:
+  layout:
+    output: true
+    permalink: /:collection/:path/
         
