@@ -7,6 +7,7 @@ toc_label: "My Table of Contents"
 toc_icon: "fas fa-list-alt"
 sidebar:
   nav: "docs"
+share: true
 ---
 
 single-page
@@ -167,4 +168,4 @@ $$I = \int \rho R^{2} dV$$
 
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.\
-title telah ditambah. Sidebar telah ditambah.
+title telah ditambah. Sidebar telah ditambah. Share telah ditambah
