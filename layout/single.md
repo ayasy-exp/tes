@@ -1,13 +1,13 @@
 ---
 layout: single
-permalink: /layout/single/
+permalink: /layout/:title/
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "fas fa-list-alt"
 ---
 
-An h1 header
+Single-page
 ============
 
 Paragraphs are separated by a blank line.
