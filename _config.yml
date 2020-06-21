@@ -285,8 +285,7 @@ defaults:
       related: true
   # _layout
   - scope:
-      path: ""
-      type: layout
+      path: "/_layout/*"
     values:
       read_time: true
       author_profile: false
