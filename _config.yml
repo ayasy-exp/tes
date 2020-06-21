@@ -293,7 +293,7 @@ defaults:
       share: true
       comments: true
   - scope:
-      path: "/_default-tes/"
+      path: "/_default-tes/*"
     values:
       layout: single
       read_time: true
