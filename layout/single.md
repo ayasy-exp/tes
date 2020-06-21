@@ -1,15 +1,15 @@
 ---
 layout: single
-permalink: /layout/single/
 classes: wide
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "fas fa-list-alt"
 ---
 
-Single-page
+single-page
 ============
 ## With wide classes
+single page layout
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
