@@ -4,7 +4,9 @@ main:
   - title: "Home"
     url: https://ayasy-exp.github.io/tes/
   - title: "Page"
-    url: /page.md
+    url: /blog
+  - title: "Test"
+    url: /halo
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
