@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "page"
-permalink: /layout/page/
 ---
 
 # Page
