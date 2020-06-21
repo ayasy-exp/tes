@@ -146,6 +146,7 @@ include:
   - .htaccess
   - _pages
   - README.md
+  - _default-tes
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -287,6 +288,15 @@ defaults:
       path: ""
       type: layout
     values:
+      read_time: true
+      author_profile: false
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: default-tes
+    values:
+      layout: single
       read_time: true
       author_profile: false
       share: true
