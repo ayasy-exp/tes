@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /splash/
+permalink: layout/splash/
 ---
 
 # Splash Layout tes
