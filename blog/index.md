@@ -1,6 +1,9 @@
 ---
 layout: single
 classes: wide
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "fas fa-list-alt"
 ---
 
 An h1 header
