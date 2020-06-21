@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "page"
-permalink: /layout/:title/
+permalink: /layout/page/
 ---
 
 # Page
 ## sample page with page layout
+this is not layout theme but this is default layout jekyll
 
 Hello World
 
