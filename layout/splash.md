@@ -1,9 +1,9 @@
 ---
 layout: splash
-permalink: layout/splash/
 ---
 
-# Splash Layout tes
+# Splash
+## this is layout tes
 - [Titles](#titles)
 - [Paragraphs](#paragraphs)
 - [Line Break](#line-break)
