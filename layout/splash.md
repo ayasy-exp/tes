@@ -3,7 +3,7 @@ layout: splash
 permalink: /splash/
 ---
 
-# Landing Tes
+# Splash Layout tes
 - [Titles](#titles)
 - [Paragraphs](#paragraphs)
 - [Line Break](#line-break)
