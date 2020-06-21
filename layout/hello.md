@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "world"
-permalink: /halo/
+permalink: /layout/hello/
 ---
 
 # Hello H1
