@@ -5,7 +5,8 @@ permalink: fitur
 
 # FITUR THEME
 
-## button
+## BUTTON
+{: .text-center}
 
 ## default button 
 {: .text-center}
