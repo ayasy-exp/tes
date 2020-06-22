@@ -6,16 +6,15 @@ permalink: fitur
 # FITUR THEME
 
 ## BUTTON
-{: .text-center}
 
-### default button 
+## default button 
 {: .text-center}
 <a href="#" class="btn">Link Text</a>
 ```
 <a href="#" class="btn">Link Text</a>
 ```
 
-### primary button 
+## primary button 
 {: .text-center}
 <a href="#" class="btn btn--primary">Link Text</a>
 ```
