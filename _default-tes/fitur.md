@@ -1,5 +1,4 @@
 ---
-title: "fitur theme"
 permalink: fitur
 ---
 
