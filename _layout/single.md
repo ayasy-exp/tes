@@ -3,6 +3,7 @@ title: "single-title"
 layout: single
 header:
   image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/unsplash-image-1.jpg
+  teaser: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 toc: true
 toc_label: "My Table of Contents"
