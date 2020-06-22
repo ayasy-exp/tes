@@ -7,7 +7,8 @@ permalink: fitur
 
 ## button
 
-## default button {: .text-center}
+## default button 
+{: .text-center}
 <a href="#" class="btn">Link Text</a>
 ```
 <a href="#" class="btn">Link Text</a>
