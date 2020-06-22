@@ -7,56 +7,56 @@ permalink: fitur
 
 ## BUTTON
 
-## default button 
+### default button 
 {: .text-center}
 <a href="#" class="btn">Link Text</a>
 ```
 <a href="#" class="btn">Link Text</a>
 ```
 
-## primary button 
+### primary button 
 {: .text-center}
 <a href="#" class="btn btn--primary">Link Text</a>
 ```
 <a href="#" class="btn btn--primary">Link Text</a>
 ```
 
-## btn--success	 button 
+### btn--success	 button 
 {: .text-center}
 <a href="#" class="btn btn--success	">Link Text</a>
 ```
 <a href="#" class="btn btn--success	">Link Text</a>
 ```
 
-## btn--warning	 button 
+### btn--warning	 button 
 {: .text-center}
 <a href="#" class="btn btn--warning">Link Text</a>
 ```
 <a href="#" class="btn btn--warning	">Link Text</a>
 ```
 
-## btn--danger	 button 
+### btn--danger	 button 
 {: .text-center}
 <a href="#" class="btn btn--danger">Link Text</a>
 ```
 <a href="#" class="btn btn--danger	">Link Text</a>
 ```
 
-## btn--info	 button 
+### btn--info	 button 
 {: .text-center}
 <a href="#" class="btn btn--info">Link Text</a>
 ```
 <a href="#" class="btn btn--info	">Link Text</a>
 ```
 
-## btn--inverse	 button 
+### btn--inverse	 button 
 {: .text-center}
 <a href="#" class="btn btn--inverse">Link Text</a>
 ```
 <a href="#" class="btn btn--inverse	">Link Text</a>
 ```
 
-## btn--light-outline	 button 
+### btn--light-outline	 button 
 {: .text-center}
 <a href="#" class="btn btn--light-outline">Link Text</a>
 ```
