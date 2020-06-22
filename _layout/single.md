@@ -1,7 +1,9 @@
 ---
 title: "single-title"
 layout: single
-classes: wide
+header:
+  image: https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/docs/assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "fas fa-list-alt"
